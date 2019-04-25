@@ -2,7 +2,7 @@
 
 This is the source code to go along with the blog article
 
-[Concept Drift and Model Decay](http://xplordat.com/2019/04/24/concept-drift-and-model-decay/)
+[Concept Drift and Model Decay in Machine Learning](http://xplordat.com/2019/04/25/concept-drift-and-model-decay-in-machine-learning/)
 
 Concept drift is a drift of labels with time for the essentially the same data.
 
